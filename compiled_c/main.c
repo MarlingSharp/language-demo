@@ -14,4 +14,6 @@ int main(int argc, char **argv)
     }
     printf("sum=%d\n", sum);
     sum = 0x2345;
+
+    printf(name)
 }
